@@ -3,3 +3,7 @@
 网络请求+二级缓存
 封装之后使用只需要一行代码
 根据Android开发艺术探索这本书的第12章写的
+
+ImageLoader类为实现类
+ImageResizer为辅助工具类
+TestImageActivity为功能演示的Activity
